@@ -16,7 +16,7 @@ export class AppComponent implements OnInit {
     this.getData();
     setInterval(() => {
       this.getData();
-    }, 5000);
+    }, 2500);
   }
 
   getData() {
@@ -30,10 +30,20 @@ export class AppComponent implements OnInit {
       });
   }
   getProximityAmount(table): number {
-    let filteredTable = table.filter((element) => {
-      return element[3] === "occupied";
-    });
-    return filteredTable.length;
+    let count = 0;
+    for (let i = 0; i < table.length; i++) {
+      if (i == 0) {
+        if (table[i][2] == 1) {
+          count++;
+        }
+      } else {
+        if (table[i - 1][2] == 0 && table[i][2] == 1) {
+          count++;
+        }
+      }
+    }
+    console.log(count);
+    return count;
   }
   getWaterTapAmount(table): number {
     let filteredTable = table.filter((element) => {
