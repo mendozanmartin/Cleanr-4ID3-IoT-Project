@@ -5,3 +5,4 @@ Personal hygiene is an important element of daily life and is of great importanc
 The system operates by using a button sensor integrated into a sink tap, and a proximity sensor within a bathroom stall. The Cleanr system will monitor when a user is in the bathroom stall, and whether or not the sink tap was used. By logging this data with timestamps, the data can be analyzed to see if users are washing their hands after utilizing the bathroom. This system only works with a single-person washroom.
 
 <img src="./Cover Image.png"></img>
+<img src="./Screenshot.png"></img>
