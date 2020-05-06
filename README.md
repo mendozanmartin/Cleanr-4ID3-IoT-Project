@@ -5,7 +5,7 @@ Personal hygiene is an important element of daily life and is of great importanc
 
 The system operates by using a button sensor integrated into a sink tap, and a proximity sensor within a bathroom stall. The Cleanr system will monitor when a user is in the bathroom stall, and whether or not the sink tap was used. By logging this data with timestamps, the data can be analyzed to see if users are washing their hands after utilizing the bathroom. This system only works with a single-person washroom.
 
-<img src="./Cover Image.png"></img>
+<img src="./images/Cover Image.png"></img>
 
 ## Bill of Materials
 * Arduino MKR1000 (1)
@@ -24,8 +24,8 @@ The system operates by using a button sensor integrated into a sink tap, and a p
 
 ## Schematics
 
-<img src="./Schematic-1.png"></img>
-<img src="./Schematic-2.png"></img>
+<img src="./images/Schematic-1.png"></img>
+<img src="./images/Schematic-2.png"></img>
 
 ## Software Flows
 
@@ -58,16 +58,20 @@ The system operates by using a button sensor integrated into a sink tap, and a p
 * Web App: https://timetowashyourhands.web.app/
 
 ## Algorithm
-
+<img src="./images/Algorithm.png"></img>
 
 ## Videos and Images
 
 ### Arduino MKR1000 Hardware Setup
-
+<img src="./images/Arduino-MKR1000-Hardware-Setup.jpg"></img>
 
 ### Raspberry Pi 4 and Sprayer Setup
+<img src="./images/Sprayer-Setup.jpg"></img>
 
 ### Google Sheets
+<img src="./images/Spreadsheet.png"></img>
 
 ### Data Analytics on Cloud Web App
+<img src="./images/App-Screenshot-1.png"></img>
 
+<img src="./images/App-Screenshot-2.png"></img>
