@@ -1,4 +1,4 @@
-# Cleanr-4ID3-IoT-Project
+# CLEANR Internet of Things (IoT) Project
 
 ## Summary
 Personal hygiene is an important element of daily life and is of great importance in keeping our communities clean. This is especially true in pandemic breakouts like COVID-19. Handwashing, in particular, is an excellent way to maintain hygiene and prevent the spread of disease. Not all individuals wash their hands when using the washroom, however. Our project, Cleanr, will help evaluate how many people wash their hands after using the bathroom, without any invasive monitoring systems, such as cameras. When the person leaves the washroom, the sprayer automatically sprays an anti-bacterial spray to disinfect the area.
