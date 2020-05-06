@@ -62,6 +62,9 @@ The system operates by using a button sensor integrated into a sink tap, and a p
 
 ## Videos and Images
 
+### Video Walkthrough
+https://vimeo.com/channels/1525169
+
 ### Arduino MKR1000 Hardware Setup
 <img src="./images/Arduino-MKR1000-Hardware-Setup.jpg"></img>
 
